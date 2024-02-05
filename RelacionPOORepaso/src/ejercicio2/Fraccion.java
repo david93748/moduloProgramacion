@@ -1,6 +1,5 @@
 package ejercicio2;
 
-import java.util.Objects;
 
 import mates.MisFuncionesMatematicas;
 import mates.MisFuncionesMatematicasException;
